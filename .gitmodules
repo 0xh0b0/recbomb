@@ -1,0 +1,3 @@
+[submodule "recbomb"]
+	path = recbomb
+	url = git@github.com:0xh0b0/recbomb.git
